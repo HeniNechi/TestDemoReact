@@ -1,0 +1,71 @@
+.navbar{ 
+ 
+  background-image: none;
+  background-color:#FF6666 !important;
+  
+}
+.fa{
+  position:absolute;
+  left:10px;
+  top:3px;
+  color: black;
+}
+h1{
+  position:absolute;
+  left:78px;
+  top:-11px;
+  color: black;
+}
+.card{
+  height: 300px;
+  width: 210px;
+  
+  background-color: blanchedalmond;
+}
+.pdanger{
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+  
+  align-self:center;
+}
+.subs{
+  padding: 20px;
+  text-align: center;
+}
+.danger{
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.color{
+  
+  background-color:#FF6666 !important;
+  width: 100%;
+  color: white;
+  font-size: 20px;
+  padding-bottom: 0px;
+}
+.sticky-bottom{
+margin-bottom: 5%;
+  
+ align-items: center;
+ 
+ 
+}
+select{
+  background-color: rgb(3, 84, 99);
+  color: #FF6666;
+  border-radius: 5%;
+  font-size:17px;  
+}
+.row{
+  display: flex;
+  justify-content: center;
+ align-items: center;
+  background-color:transparent;
+  left:20% !important;
+}
+.pagin {
+  color:#FF6666 !important;
+}
